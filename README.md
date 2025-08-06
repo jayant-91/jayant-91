@@ -1,16 +1,10 @@
 
-# 👋 Hi, I'm Jayanta
-
-I'm a backend-focused developer interested in building scalable systems and dev tools.
-
-🚀 **Interests:**
+- 👋 Hi, I'm Jayanta
 - 🦫 Go & 🦀 Rust  
 - ☸️ Kubernetes  
 - 🔍 Observability  
-- 🕸️ WebAssembly (WASM)
+- 🫀 I love open-source  
 
-I'm learning, building, and always exploring how things work under the hood.
+I'm exploring how things work under the hood.
 
-> Let’s connect, collaborate, and create something awesome.
-
----
+📫 Reach me at: **pradhanjayanta91@gmail.com**
