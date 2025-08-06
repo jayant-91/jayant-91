@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**jayant-91/jayant-91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Jayanta
 
-Here are some ideas to get you started:
+I'm a backend-focused developer interested in building scalable systems and dev tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Interests:**
+- 🦫 Go & 🦀 Rust  
+- ☸️ Kubernetes  
+- 🔍 Observability  
+- 🕸️ WebAssembly (WASM)
+
+I'm learning, building, and always exploring how things work under the hood.
+
+> Let’s connect, collaborate, and create something awesome.
+
+---
